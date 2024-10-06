@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Homeology Companian App</Text>
+      <Text>Homeology Companian App Time to make a dddPDF</Text>
       <StatusBar style="auto" />
     </View>
   );
